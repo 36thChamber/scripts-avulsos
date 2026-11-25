@@ -1,0 +1,14 @@
+{
+  "inicio_indice": "## Antigo",
+  "fim_indice": "## Referências",
+  "novo_bloco_indice": "## Atual\nExemplo\n",
+  "substituicoes": [],
+  "inicio_resumo": "## Contexto",
+  "fim_resumo": "## Primeiro",
+  "novo_bloco_resumo": "## Contexto\nExemplo\n",
+  "reordenar": [
+    "## Primeiro",
+    "## Segundo",
+    "## Final"
+  ]
+}

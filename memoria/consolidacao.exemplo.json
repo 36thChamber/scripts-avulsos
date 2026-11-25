@@ -1,0 +1,9 @@
+{
+  "prefixo": "# Projeto exemplo\n\n",
+  "substituicoes": [
+    [
+      "rascunho",
+      "revisado"
+    ]
+  ]
+}
